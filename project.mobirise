@@ -45,14 +45,21 @@
     "uniqCompNum": 1,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "mbrsiteDomain": "dw3oegqlyd",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "ALTA HOSPITALARIA",
+        "meta_descr": "RAMOS GARCIA JOSE ANGEL\nGNP GMM",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
